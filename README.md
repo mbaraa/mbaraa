@@ -6,9 +6,7 @@
 
 #### I see you've reached my profile, enjoy the ride....
 
-- 🔭 I’m currently working on `nothing`
 
-- 🌱 I’m currently learning `Data Structures & Qt`
 
 <p align="center">
   Visitors counter:<br>
