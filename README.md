@@ -1,30 +1,17 @@
-### Hello there 👋, I'm Baraa 👨‍💻
+### Hello there 🙋‍
+#### I see you've found my profile! enjoy the ride....
 
 <p align="center">
   <img src="http://www.quickmeme.com/img/32/327d10c25fd359a297ac7a178e4818cb977dcfe1aaf0b855074a0cd1b5d9cfbf.jpg" alt="Hello there" />
 </p>
 
-#### I see you've reached my profile, enjoy the ride....
 
-
-
+<!--
 <p align="center">
   Visitors counter:<br>
   <img src="https://profile-counter.glitch.me/baraa-almasri/count.svg" />
 </p>
-
-
-<!--
-**baraa-almasri/baraa-almasri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
+<p align="center">
+  &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=baraa-almasri&show_icons=true&locale=en" alt="baraa-almasri" />
+</p>  
