@@ -6,5 +6,8 @@
 </p>
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mbaraa&show_icons=true&locale=en" alt="shorts.ninja/d697c">
+  <a href="https://mbaraa.com">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=mbaraa&show_icons=true&theme=dracula&include_all_commits=true"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mbaraa&langs_count=3&theme=dracula"/>
+  </a>
 </p>
